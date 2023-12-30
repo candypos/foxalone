@@ -16,4 +16,5 @@ func main() {
 
 	time.Sleep(3 * time.Second)
 	fmt.Println("Hello, playground")
+	fmt.Println("git Test")
 }
